@@ -1,0 +1,96 @@
+*{
+    background-image: linear-gradient(to right,rgb(0, 0, 0),rgb(0, 0, 0));
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    text-align: left;
+}
+.header{
+    text-align: left;
+    color: azure;
+}
+nav{
+    text-align: right;
+}
+.top-left{
+    position: absolute;
+    top: 220px;
+    left: 50px;
+    font-size: xx-large;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0);
+    color: #f1f1f1;
+    text-align: center;
+}
+.about{
+    background: rgba(0, 0, 0, 0);
+}
+.right{
+    color: antiquewhite;
+    position: absolute;
+    font-size: x-large;
+    top: 590px;
+    right: 300px;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0);
+}
+.aboutp{
+    color: antiquewhite;
+    position: absolute;
+    font-size: x-large;
+    top: 720px;
+    left: 620px;
+    right: 10px;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0);
+}
+.gallery{
+    color: antiquewhite;
+    position: absolute;
+    left: 550px;
+    text-align: center;
+    font-size: x-large;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+}
+.row {
+    display: flex;
+    margin-top: 150px;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 4px;
+  }
+  .achievement{
+    color: antiquewhite;
+    position: absolute;
+    left: 510px;
+    text-align: center;
+    font-size: x-large;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+  }
+  .row {
+    display: flex;
+    margin-top: 150px;
+  }
+  
+  .image {
+
+    width: 100%;
+    height: auto;
+  }
+  
+  
+  div.last{
+    color: rgb(243, 243, 243);
+    margin-top: 100px;
+    margin-left: 500px;
+    background: rgba(0, 0, 0, 0);
+    background: rgba(0, 0, 0, 0);
+  }
+  div.last1{
+    color: antiquewhite;
+    margin-top: 50px;
+    margin-left: 600px;
+    margin-bottom: 30px;
+  }
